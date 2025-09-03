@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/barmetal/barmetal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/barmetal/barmetal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m3 -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\barmetal.dir\\Src\\main.c.obj -c C:\\barmetal\\barmetal\\Src\\main.c",
+  "file": "C:\\barmetal\\barmetal\\Src\\main.c",
+  "output": "CMakeFiles\\barmetal.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/barmetal/barmetal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/barmetal/barmetal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m3 -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\barmetal.dir\\Src\\syscall.c.obj -c C:\\barmetal\\barmetal\\Src\\syscall.c",
+  "file": "C:\\barmetal\\barmetal\\Src\\syscall.c",
+  "output": "CMakeFiles\\barmetal.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/barmetal/barmetal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/barmetal/barmetal/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m3 -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\barmetal.dir\\Src\\sysmem.c.obj -c C:\\barmetal\\barmetal\\Src\\sysmem.c",
+  "file": "C:\\barmetal\\barmetal\\Src\\sysmem.c",
+  "output": "CMakeFiles\\barmetal.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/barmetal/barmetal/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.19.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/barmetal/barmetal -g -mthumb -mcpu=cortex-m3 -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\barmetal.dir\\Startup\\startup_stm32f103c8tx.s.obj -c C:\\barmetal\\barmetal\\Startup\\startup_stm32f103c8tx.s",
+  "file": "C:\\barmetal\\barmetal\\Startup\\startup_stm32f103c8tx.s",
+  "output": "CMakeFiles\\barmetal.dir\\Startup\\startup_stm32f103c8tx.s.obj"
+}
+]

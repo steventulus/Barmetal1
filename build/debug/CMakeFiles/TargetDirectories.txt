@@ -1,0 +1,3 @@
+C:/barmetal/barmetal/build/debug/CMakeFiles/barmetal.dir
+C:/barmetal/barmetal/build/debug/CMakeFiles/edit_cache.dir
+C:/barmetal/barmetal/build/debug/CMakeFiles/rebuild_cache.dir

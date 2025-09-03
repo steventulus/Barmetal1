@@ -1,0 +1,6 @@
+# ninja log v5
+22	91	7785889725713452	CMakeFiles/barmetal.dir/Startup/startup_stm32f103c8tx.s.obj	cbf034258aadf567
+3	94	7785944797109538	CMakeFiles/barmetal.dir/Src/main.c.obj	645bbc590695707e
+16	131	7785889726135796	CMakeFiles/barmetal.dir/Src/sysmem.c.obj	ea4d291d49c9e214
+9	171	7785889726537367	CMakeFiles/barmetal.dir/Src/syscall.c.obj	e5e33b8c705e413c
+94	315	7785944798344625	barmetal.elf	ce81d7cffe4649cc
