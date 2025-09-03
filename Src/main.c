@@ -36,10 +36,10 @@ int main(void) {
     while (1) {
         // LED ON (active low → reset bit)
         GPIOC->BSRR = (1 << 13) << 16;  
-        delay(500);
+        delay(50);
 
         // LED OFF (set bit)
         GPIOC->BSRR = (1 << 13);       
-        delay(50);
+        delay(500);
     }
 }
